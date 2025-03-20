@@ -26,5 +26,7 @@ async def main():
 asyncio.run(main())
 ```
 
+Main structure a asyncio state: https://github.com/python/cpython/blob/3.13/Modules/_asynciomodule.c#L28
 
 Twitter thread: https://x.com/dwillems42/status/1902566856923259218
+
