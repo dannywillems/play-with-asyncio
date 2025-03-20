@@ -13,6 +13,5 @@ async def main():
     result = await fetch_data()
     print(f"Result: {result}")
 
-asyncio.run(main())
 
 asyncio.run(main())
