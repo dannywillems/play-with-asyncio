@@ -25,3 +25,6 @@ async def main():
 
 asyncio.run(main())
 ```
+
+
+Twitter thread: https://x.com/dwillems42/status/1902566856923259218
